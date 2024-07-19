@@ -12,6 +12,6 @@
             "linux": {
                 "command": "git remote | grep base && git remote set-url base https://github.com/Felipe-Cavalca/base-repo.git || git remote add base https://github.com/Felipe-Cavalca/base-repo.git; git fetch base && git merge base/latest-release"
             }
-        },
+        }
     ]
 }
