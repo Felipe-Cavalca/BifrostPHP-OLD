@@ -14,4 +14,3 @@ Um framework PHP inovador, operando em Docker e adotando o princípio “API fir
 ## Repositorios
 
 Esse projeto não é apenas um repositorio com uma função, é um projeto modular onde cada modulo tem seu proprio repositorio.
-veja o arquivo [repositorios](REPOSITORIES.md) para ver quais os modulos do projeto.
